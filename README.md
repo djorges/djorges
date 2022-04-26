@@ -31,7 +31,14 @@
 </div>
 
 <h2>Projects</h2>
-<h3> MyLocation | Android App</h3>
-  2022 || 5 developers, 4 weeks: an app that allows Balloon Group employees to create and manage tournaments and matches between office members. For the front-end, we used React native, Redux, CSS. We used MongoDB for the database, Express.js, Node.js, Mongoose, JWL for the back-end
-  Finally, we used Scrum through a trello to coordinate the team’s tasks.
-  **Link:** https://github.com/Agustin-FE/Match-maker
+<h3>MyLocation | Android App</h3>
+Link: https://play.google.com/store/apps/details?id=com.levelabdev.location
+
+<h3>E-commerce | Webapp</h3>
+Link: https://github.com/djorges/Ecommerce
+
+<h3>GestionEmpleados | Webapp</h3>
+Link: https://github.com/djorges/Gestion-Empleados
+
+<h3>Dictionary | Android App</h3>
+Link: https://github.com/djorges/DictionaryApp
