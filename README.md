@@ -1,4 +1,4 @@
-<h2>Languages, libraries and tools</h2>
+<h2>Lenguages de programación, librerías y herramientas</h2>
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
@@ -27,12 +27,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
 </div>
 
-<h2>Projects</h2>
+<h2>Proyectos</h2>
 <h3>MyLocation | Android App</h3>
-Link: https://play.google.com/store/apps/details?id=com.levelabdev.location
+Aplicación Android en la cual se muestra información detallada sobre la ubicación actual del dispositivo. Se utilizó Clean Architecture como patrón de arquitectura y MVVM en la capa de presentación.   En la parte del back-end usó Google Maps Api, Geocoder Api, Corrutinas, LiveData, Room y SQLite. Para la vinculación de datos con las vistas se usó DataBinding y NavigationUI en la navegación entre fragmentos. Dagger Hilt para inyección de dependencias y JUnit 5 para testing.
+<br>Link: https://play.google.com/store/apps/details?id=com.levelabdev.location
 
 <h3>E-commerce | Web App</h3>
-Link: https://github.com/djorges/Ecommerce
+Sitio web para la administración de productos de supermercado. Operaciones como listar, actualizar, borrar y ver detalles de productos. Proyecto desarrollado con Spring Boot utilizando el patrón de diseño MVC. Se empleó Spring Validation, Apache Tomcat, Hibernate y MySQL en la parte del back-end. En el front-end se usó ReactJS, Axios y Material UI.
+<br>Link: https://github.com/djorges/Ecommerce
+
+<h3>Music Store | Web App</h3>
+Tienda de música. Operaciones CRUD. Proyecto desarrollado en Kotlin con Spring Boot y el patrón de diseño MVC. En la parte del back-end se usó Spring Validation, Spring Security, Apache Tomcat, Hibernate y MySQL. Se utilizó Thymeleaf, JQuery y Bootstrap en la parte del front-end.
 
 <h3>GestionEmpleados | Web App</h3>
 Link: https://github.com/djorges/Gestion-Empleados
