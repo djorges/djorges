@@ -31,10 +31,10 @@
 <h3>MyLocation | Android App</h3>
 Link: https://play.google.com/store/apps/details?id=com.levelabdev.location
 
-<h3>E-commerce | Webapp</h3>
+<h3>E-commerce | Web App</h3>
 Link: https://github.com/djorges/Ecommerce
 
-<h3>GestionEmpleados | Webapp</h3>
+<h3>GestionEmpleados | Web App</h3>
 Link: https://github.com/djorges/Gestion-Empleados
 
 <h3>Dictionary | Android App</h3>
