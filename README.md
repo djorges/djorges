@@ -44,8 +44,8 @@ Link: https://github.com/djorges/Gestion-Empleados
 
 <h3>Dictionary | Android App</h3>
 Aplicación desarrollada con Clean Architecture como patrón de arquitectura y MVVM en la capa de presentación. Para el back-end se empleó Retrofit 2, Corrutinas, Flow, Room y SQLIite.
-En el front-end se usó las librerias de Compose y Navigation UI.
+En el front-end se usó las librerias de Compose, State y Navigation UI.
 Link: https://github.com/djorges/DictionaryApp
 
 <h3>Blog | Web App</h3>
-Aplicación web de blog para realizar posteos. Proyecto desarrollado en Kotlin con Spring Boot y el patrón de diseño MVC. En la parte del back-end se usó Spring Validation, Spring Security + JWT, Apache Tomcat, Spring Data JPA y MySQL.
+Aplicación web de blog. RestApi desarrollado en Kotlin con Spring Boot y el patrón de diseño MVC. En la parte del back-end se usó Spring Validation, Spring Security + JWT, Apache Tomcat, Spring Data JPA y MySQL.
