@@ -44,7 +44,7 @@ Tienda de música. Operaciones CRUD. Proyecto desarrollado en Kotlin con Spring 
 Link: https://github.com/djorges/Gestion-Empleados
 
 <h3>Dictionary | Android App</h3>
-Aplicación desarrollada con Clean Architecture como patrón de arquitectura y MVVM en la capa de presentación. Para el back-end se empleó Retrofit 2, Corrutinas, Flow, Room y SQLIite.
+Aplicación desarrollada con Clean Architecture como patrón de arquitectura y MVVM en la capa de presentación. Para el back-end se empleó Retrofit 2, Corrutinas, Flow, Room y SQLite.
 En el front-end se usó las librerias de Compose, State y Navigation UI.
 Link: https://github.com/djorges/DictionaryApp
 
