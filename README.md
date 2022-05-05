@@ -39,7 +39,7 @@ Sitio web para la administración de productos de supermercado. Operaciones como
 
 <h3>Blog | Web App</h3>
 Aplicación web de blog. RestApi desarrollado en Kotlin con Spring Boot y el patrón de diseño MVC. En la parte del back-end se usó Spring Validation, Spring Security + JWT, Apache Tomcat, Spring Data JPA y MySQL.
-Link: https://github.com/djorges/Blog
+<br> Link: https://github.com/djorges/Blog
 
 <h3>Music Store | Web App</h3>
 Tienda de música. Operaciones CRUD. Proyecto desarrollado en Kotlin con Spring Boot y el patrón de diseño MVC. En la parte del back-end se usó Spring Validation, Spring Security, Apache Tomcat, Hibernate y MySQL. Se utilizó Thymeleaf, JQuery y Bootstrap en la parte del front-end.
