@@ -37,6 +37,10 @@ Aplicación Android en la cual se muestra información detallada sobre la ubicac
 Sitio web para la administración de productos de supermercado. Operaciones como listar, actualizar, borrar y ver detalles de productos. Proyecto desarrollado con Spring Boot utilizando el patrón de diseño MVC. Se empleó Spring Validation, Apache Tomcat, Sring Data JPA y MySQL en la parte del back-end. En el front-end se usó ReactJS, Axios y Material UI.
 <br>Link: https://github.com/djorges/Ecommerce
 
+<h3>Blog | Web App</h3>
+Aplicación web de blog. RestApi desarrollado en Kotlin con Spring Boot y el patrón de diseño MVC. En la parte del back-end se usó Spring Validation, Spring Security + JWT, Apache Tomcat, Spring Data JPA y MySQL.
+Link: https://github.com/djorges/Blog
+
 <h3>Music Store | Web App</h3>
 Tienda de música. Operaciones CRUD. Proyecto desarrollado en Kotlin con Spring Boot y el patrón de diseño MVC. En la parte del back-end se usó Spring Validation, Spring Security, Apache Tomcat, Hibernate y MySQL. Se utilizó Thymeleaf, JQuery y Bootstrap en la parte del front-end.
 
@@ -47,6 +51,3 @@ Link: https://github.com/djorges/Gestion-Empleados
 Aplicación desarrollada con Clean Architecture como patrón de arquitectura y MVVM en la capa de presentación. Para el back-end se empleó Retrofit 2, Corrutinas, Flow, Room y SQLite.
 En el front-end se usó las librerias de Compose, State y Navigation UI.
 Link: https://github.com/djorges/DictionaryApp
-
-<h3>Blog | Web App</h3>
-Aplicación web de blog. RestApi desarrollado en Kotlin con Spring Boot y el patrón de diseño MVC. En la parte del back-end se usó Spring Validation, Spring Security + JWT, Apache Tomcat, Spring Data JPA y MySQL.
