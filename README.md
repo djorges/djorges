@@ -29,25 +29,29 @@
 </div>
 
 <h2>Proyectos</h2>
-<h3>MyLocation | Android App</h3>
+<h3>Website | Aplicación Web</h3>
+Sitio web personal.
+<br>Link: https://jorgesdiego.herokuapp.com/
+
+<h3>MyLocation | Aplicación Móvil</h3>
 Aplicación Android en la cual se muestra información detallada sobre la ubicación actual del dispositivo. Se utilizó Clean Architecture como patrón de arquitectura y MVVM en la capa de presentación.   En la parte del back-end usó Google Maps Api, Geocoder Api, Corrutinas, LiveData, Room y SQLite. Para la vinculación de datos con las vistas se usó DataBinding y NavigationUI en la navegación entre fragmentos. Dagger Hilt para inyección de dependencias y JUnit 5 para testing.
 <br>Link: https://play.google.com/store/apps/details?id=com.levelabdev.location
 
-<h3>E-commerce | Web App</h3>
+<h3>E-commerce | Aplicación Web</h3>
 Sitio web para la administración de productos de supermercado. Operaciones como listar, actualizar, borrar y ver detalles de productos. Proyecto desarrollado con Spring Boot utilizando el patrón de diseño MVC. Se empleó Spring Validation, Apache Tomcat, Sring Data JPA y MySQL en la parte del back-end. En el front-end se usó ReactJS, Axios y Material UI.
 <br>Link: https://github.com/djorges/Ecommerce
 
-<h3>Blog | Web App</h3>
+<h3>Blog | Aplicación Web</h3>
 Aplicación web de blog. RestApi desarrollado en Kotlin con Spring Boot y el patrón de diseño MVC. En la parte del back-end se usó Spring Validation, Spring Security + JWT, Apache Tomcat, Spring Data JPA y MySQL.
 <br> Link: https://github.com/djorges/Blog
 
-<h3>Music Store | Web App</h3>
+<h3>Music Store | Aplicación Web</h3>
 Tienda de música. Operaciones CRUD. Proyecto desarrollado en Kotlin con Spring Boot y el patrón de diseño MVC. En la parte del back-end se usó Spring Validation, Spring Security, Apache Tomcat, Hibernate y MySQL. Se utilizó Thymeleaf, JQuery y Bootstrap en la parte del front-end.
 
-<h3>GestionEmpleados | Web App</h3>
+<h3>GestionEmpleados | Aplicación Web</h3>
 Link: https://github.com/djorges/Gestion-Empleados
 
-<h3>Dictionary | Android App</h3>
+<h3>Dictionary | Aplicación Móvil</h3>
 Aplicación desarrollada con Clean Architecture como patrón de arquitectura y MVVM en la capa de presentación. Para el back-end se empleó Retrofit 2, Corrutinas, Flow, Room y SQLite.
 En el front-end se usó las librerias de Compose, State y Navigation UI.
 Link: https://github.com/djorges/DictionaryApp
