@@ -30,7 +30,7 @@
 
 <h2>Proyectos</h2>
 <h3>Website | Aplicación Web</h3>
-Sitio web personal.
+Sitio web personal. Proyecto desarrollado con Spring Boot utilizando el patrón de diseño MVC. Se utilizó Google Maps Javascript Api, Google Recaptcha, Spring Validation, RestTemplate, Hibernate y MySQL. En el front-end se utilizó Thymeleaf, JQuery y Bootstrap.
 <br>Link: https://jorgesdiego.herokuapp.com/
 
 <h3>MyLocation | Aplicación Móvil</h3>
