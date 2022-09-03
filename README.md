@@ -30,7 +30,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </div>
 
-<h2>Proyectos</h2>
+<h2>Projects</h2>
 <h3>Website | Web Application</h3>
 Personal Website. Project developed with Spring Boot using the MVC design pattern. For the back-end, we used Google Maps Javascript Api, Google Recaptcha, Spring Validation, RestTemplate, Hibernate and MySQL. In the front-end, Thymeleaf, JQuery and Bootstrap were used.
 <br>Link: https://jorgesdiego.herokuapp.com/
