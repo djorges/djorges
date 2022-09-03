@@ -1,4 +1,4 @@
-<h2>Lenguages de programación, librerías y herramientas</h2>
+<h2>Languages, libraries and tools</h2>
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
@@ -31,29 +31,29 @@
 </div>
 
 <h2>Proyectos</h2>
-<h3>Website | Aplicación Web</h3>
-Sitio web personal. Proyecto desarrollado con Spring Boot utilizando el patrón de diseño MVC. Se utilizó Google Maps Javascript Api, Google Recaptcha, Spring Validation, RestTemplate, Hibernate y MySQL. En el front-end se utilizó Thymeleaf, JQuery y Bootstrap.
+<h3>Website | Web Application</h3>
+Personal Website. Project developed with Spring Boot using the MVC design pattern. For the back-end, we used Google Maps Javascript Api, Google Recaptcha, Spring Validation, RestTemplate, Hibernate and MySQL. In the front-end, Thymeleaf, JQuery and Bootstrap were used.
 <br>Link: https://jorgesdiego.herokuapp.com/
 
-<h3>MyLocation | Aplicación Móvil</h3>
-Aplicación Android en la cual se muestra información detallada sobre la ubicación actual del dispositivo. Se utilizó Clean Architecture como patrón de arquitectura y MVVM en la capa de presentación.   En la parte del back-end usó Google Maps Api, Geocoder Api, Corrutinas, LiveData, Room y SQLite. Para la vinculación de datos con las vistas se usó DataBinding y NavigationUI en la navegación entre fragmentos. Dagger Hilt para inyección de dependencias y JUnit 5 para testing.
+<h3>MyLocation | Mobile Application</h3>
+Android application in which detailed information about the current location of the device is displayed. Clean Architecture was used as the architecture pattern and MVVM in the presentation layer. In the back-end part, Google Maps Api, Geocoder Api, Coroutines, LiveData, Room and SQLite were used. Also it were used  DataBinding for data binding with views and NavigationUI in the navigation between fragments. Dagger Hilt for dependency injection and JUnit 5 for testing.
 <br>Link: https://play.google.com/store/apps/details?id=com.levelabdev.location
 
-<h3>E-commerce | Aplicación Web</h3>
-Sitio web para la administración de productos de supermercado. Operaciones como listar, actualizar, borrar y ver detalles de productos. Proyecto desarrollado con Spring Boot utilizando el patrón de diseño MVC. Se empleó Spring Validation, Apache Tomcat, Sring Data JPA y MySQL en la parte del back-end. En el front-end se usó ReactJS, Axios y Material UI.
+<h3>E-commerce | Web Application</h3>
+Website for the administration of supermarket products. Operations such as listing, updating, deleting and viewing product details. Project developed with Spring Boot using the MVC design pattern. Spring Validation, Apache Tomcat, Sring Data JPA and MySQL were used in the back-end part. In the front-end ReactJS, Axios and Material UI were used. This project repository is public.
 <br>Link: https://github.com/djorges/Ecommerce
 
-<h3>Blog | Aplicación Web</h3>
-Aplicación web de blog. RestApi desarrollado en Kotlin con Spring Boot y el patrón de diseño MVC. En la parte del back-end se usó Spring Validation, Spring Security + JWT, Apache Tomcat, Spring Data JPA y MySQL.
+<h3>Blog | Web Application</h3>
+Blog web application. RestApi developed in Kotlin with Spring Boot and the MVC design pattern. In the back-end part, Spring Validation, Spring Security + JWT, Apache Tomcat, Spring Data JPA and MySQL were used.
 <br> Link: https://github.com/djorges/Blog
 
-<h3>Music Store | Aplicación Web</h3>
-Tienda de música. Operaciones CRUD. Proyecto desarrollado en Kotlin con Spring Boot y el patrón de diseño MVC. En la parte del back-end se usó Spring Validation, Spring Security, Apache Tomcat, Hibernate y MySQL. Se utilizó Thymeleaf, JQuery y Bootstrap en la parte del front-end.
+<h3>Music Store | Web Application</h3>
+Music store. CRUD operations. Project developed in Kotlin with Spring Boot and the MVC design pattern. In the back-end part, Spring Validation, Spring Security, Apache Tomcat, Hibernate and MySQL were used. Thymeleaf, JQuery and Bootstrap were used in the front-end part. This project repository is currently private.
 
-<h3>GestionEmpleados | Aplicación Web</h3>
+<h3>GestionEmpleados | Web Application</h3>
 Link: https://github.com/djorges/Gestion-Empleados
 
-<h3>Dictionary | Aplicación Móvil</h3>
-Aplicación desarrollada con Clean Architecture como patrón de arquitectura y MVVM en la capa de presentación. Para el back-end se empleó Retrofit 2, Corrutinas, Flow, Room y SQLite.
-En el front-end se usó las librerias de Compose, State y Navigation UI.
+<h3>Dictionary | Mobile Application</h3>
+Application developed with Clean Architecture as architecture pattern and MVVM in the presentation layer. For the back-end, Retrofit 2, Coroutines, Flow, Room and SQLite were used.
+In the front-end, the Compose, State and Navigation UI libraries were used.
 Link: https://github.com/djorges/DictionaryApp
