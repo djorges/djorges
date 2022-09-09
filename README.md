@@ -55,5 +55,5 @@ Link: https://github.com/djorges/Gestion-Empleados
 
 <h3>Dictionary | Mobile Application</h3>
 Features: search word, word definition, list words. Application developed with Clean Architecture as architecture pattern and MVVM in the presentation layer. For the back-end, Retrofit 2, Coroutines, Flow, Room and SQLite were used.
-In the front-end the Compose, MaterialUI and Navigation UI libraries were used.
+In the front-end the Compose, Material Design and Navigation UI libraries were used.
 Link: https://github.com/djorges/DictionaryApp
