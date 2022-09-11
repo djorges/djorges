@@ -1,4 +1,4 @@
-<h2>Languages, libraries and tools</h2>
+<h2>Languages, Libraries and Tools</h2>
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
