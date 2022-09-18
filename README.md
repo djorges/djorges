@@ -33,7 +33,7 @@
 
 <h2>Projects</h2>
 <h3>Website | Web Application</h3>
-Personal Website. Project developed with Spring Boot using the MVC design pattern. For the back-end, we used Google Maps Javascript Api, Google Recaptcha, Spring Validation, RestTemplate, Hibernate and MySQL. In the front-end, Thymeleaf, JQuery and Bootstrap were used.
+Personal Website. Project developed with Spring Boot using the MVC design pattern. For the back-end were used Google Maps Javascript Api, Google Recaptcha, Spring Validation, RestTemplate, Hibernate and MySQL. In the front-end Thymeleaf, JQuery and Bootstrap were used.
 <br>Link: https://jorgesdiego.herokuapp.com/
 
 <h3>MyLocation | Mobile Application</h3>
@@ -52,9 +52,9 @@ Blog web application. RestApi developed in Kotlin with Spring Boot and the MVC d
 Music store. CRUD operations. Project developed in Kotlin with Spring Boot and the MVC design pattern. In the back-end part, Spring Validation, Spring Security, Apache Tomcat, Hibernate and MySQL were used. Thymeleaf, JQuery and Bootstrap were used in the front-end part. This project repository is currently private.
 
 <h3>GestionEmpleados | Web Application</h3>
-Link: https://github.com/djorges/Gestion-Empleados
+<br>Link: https://github.com/djorges/Gestion-Empleados
 
 <h3>Dictionary | Mobile Application</h3>
-Features: search word, word definition, list words. Application developed with Clean Architecture as architecture pattern and MVVM in the presentation layer. For the back-end, Retrofit 2, Coroutines, Flow, Room and SQLite were used.
+Features: search word, word definition, list words. Application developed with Clean Architecture as architecture pattern and MVVM in the presentation layer. For the back-end, Retrofit 2, Coroutines, Flow and Room were used.
 In the front-end the Compose, Material Design and Navigation UI libraries were used.
-Link: https://github.com/djorges/DictionaryApp
+<br>Link: https://github.com/djorges/DictionaryApp
