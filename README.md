@@ -58,3 +58,7 @@ Music store. CRUD operations. Project developed in Kotlin with Spring Boot and t
 Features: search word, word definition, list words. Application developed with Clean Architecture as architecture pattern and MVVM in the presentation layer. For the back-end, Retrofit 2, Coroutines, Flow and Room were used.
 In the front-end the Compose, Material Design and Navigation UI libraries were used.
 <br>Link: https://github.com/djorges/DictionaryApp
+
+<h3>SimpsonsApi | Mobile Application</h3>
+Find your favourite quotes from The Simpsons series. Features: search quote, list characters, quote details & actions.
+<br>Link: https://github.com/djorges/SimpsonApi
