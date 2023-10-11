@@ -32,9 +32,6 @@
 </div>
 
 <h2>Projects</h2>
-<h3>Website | Web Application</h3>
-Personal Website. Project developed with Spring Boot using the MVC design pattern. For the back-end were used Google Maps Javascript Api, Google Recaptcha, Spring Validation, RestTemplate, Hibernate and MySQL. In the front-end Thymeleaf, JQuery and Bootstrap were used.
-<br>Link: https://jorgesdiego.herokuapp.com/
 
 <h3>MyLocation | Mobile Application</h3>
 Android application in which detailed information about the current location of the device is displayed. Clean Architecture was used as the architecture pattern and MVVM in the presentation layer. In the back-end part, Google Maps Api, Geocoder Api, Coroutines, LiveData, Room and SQLite were used. Also it were used  DataBinding for data binding with views and NavigationUI in the navigation between fragments. Dagger Hilt for dependency injection and JUnit 5 for testing.
