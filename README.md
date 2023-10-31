@@ -32,10 +32,17 @@
 </div>
 
 <h2>Projects</h2>
+<h3>Website | Web Application</h3>
+Personal Website. Project developed with Spring Boot v3.0.5 using the MVC design pattern. For the back-end were used Google Recaptcha, Spring Validation, RestTemplate, Hibernate and MySQL. In the front-end Thymeleaf, Google Maps Javascript Api, JQuery and Bootstrap were used.
+<br>Link: https://jorgesdiego-24479a697423.herokuapp.com
 
 <h3>MyLocation | Mobile Application</h3>
 Android application in which detailed information about the current location of the device is displayed. Clean Architecture was used as the architecture pattern and MVVM in the presentation layer. In the back-end part, Google Maps Api, Geocoder Api, Coroutines, LiveData, Room and SQLite were used. Also it were used  DataBinding for data binding with views and NavigationUI in the navigation between fragments. Dagger Hilt for dependency injection and JUnit 5 for testing.
 <br>Link: https://play.google.com/store/apps/details?id=com.levelabdev.location
+
+<h3>SimpsonsApi | Mobile Application</h3>
+Find your favourite quotes from The Simpsons series. Features: search quote, list characters, quote details & actions. Project developed with Coroutines & Flows, Dagger Hilt, Shared Preferences, Retrofit and Room.
+<br>Link: https://github.com/djorges/SimpsonApi
 
 <h3>E-commerce | Web Application</h3>
 Website for the administration of supermarket products. Operations such as listing, updating, deleting and viewing product details. Project developed with Spring Boot using the MVC design pattern. Spring Validation, Apache Tomcat, Sring Data JPA and MySQL were used in the back-end part. In the front-end ReactJS, Axios and Material UI were used. This project repository is public.
@@ -55,7 +62,3 @@ Music store. CRUD operations. Project developed in Kotlin with Spring Boot and t
 Features: search word, word definition, list words. Application developed with Clean Architecture as architecture pattern and MVVM in the presentation layer. For the back-end, Retrofit 2, Coroutines, Flow and Room were used.
 In the front-end the Compose, Material Design and Navigation UI libraries were used.
 <br>Link: https://github.com/djorges/DictionaryApp
-
-<h3>SimpsonsApi | Mobile Application</h3>
-Find your favourite quotes from The Simpsons series. Features: search quote, list characters, quote details & actions.
-<br>Link: https://github.com/djorges/SimpsonApi
