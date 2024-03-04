@@ -52,13 +52,12 @@ Website for the administration of supermarket products. Operations such as listi
 Blog web application. RestApi developed in Kotlin with Spring Boot and the MVC design pattern. In the back-end part, Spring Validation, Spring Security + JWT, Apache Tomcat, Spring Data JPA and MySQL were used.
 <br> Link: https://github.com/djorges/Blog
 
-<h3>Music Store | Web Application</h3>
-Music store. CRUD operations. Project developed in Kotlin with Spring Boot and the MVC design pattern. In the back-end part, Spring Validation, Spring Security, Apache Tomcat, Hibernate and MySQL were used. Thymeleaf, JQuery and Bootstrap were used in the front-end part. This project repository is currently private.
-
-<h3>GestionEmpleados | Web Application</h3>
-<br>Link: https://github.com/djorges/Gestion-Empleados
+<h3>Newspaper | Mobile Application</h3>
+Mobile application that shows a list of news from Página12. When you select an article, it redirects you to the official website of the newspaper. Application developed with Clean Architecture as architecture pattern and MVVM in the presentation layer. For the back-end, Retrofit 2, Dagger Hilt, Room, Coroutines and LiveData were used.
+In the front-end the Glide, Databinding and Navigation UI libraries were used.
+<br>Link: https://github.com/djorges/Retrofit
 
 <h3>Dictionary | Mobile Application</h3>
-Features: search word, word definition, list words. Application developed with Clean Architecture as architecture pattern and MVVM in the presentation layer. For the back-end, Retrofit 2, Coroutines, Flow and Room were used.
-In the front-end the Compose, Material Design and Navigation UI libraries were used.
+Features: search word, word definition, list words. Application developed with Clean Architecture as architecture pattern and MVVM in the presentation layer. For the back-end, Dagger Hilt, Retrofit 2, Coroutines, Flow and Room were used.
+In the front-end the Jetpack Compose, Material Design and Navigation UI libraries were used.
 <br>Link: https://github.com/djorges/DictionaryApp
