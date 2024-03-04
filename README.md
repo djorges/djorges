@@ -34,7 +34,8 @@
 <h2>Projects</h2>
 <h3>Website | Web Application</h3>
 Personal Website. Project developed with Spring Boot v3.0.5 using the MVC design pattern. For the back-end were used Google Recaptcha, Spring Validation, RestTemplate, Hibernate and MySQL. In the front-end Thymeleaf, Google Maps Javascript Api, JQuery and Bootstrap were used.
-<br>Link: https://jorgesdiego-24479a697423.herokuapp.com
+<br>Repository: https://github.com/djorges/Website
+<br>Website: https://jorgesdiego-24479a697423.herokuapp.com
 
 <h3>MyLocation | Mobile Application</h3>
 Android application in which detailed information about the current location of the device is displayed. Clean Architecture was used as the architecture pattern and MVVM in the presentation layer. In the back-end part, Google Maps Api, Geocoder Api, Coroutines, LiveData, Room and SQLite were used. Also it were used  DataBinding for data binding with views and NavigationUI in the navigation between fragments. Dagger Hilt for dependency injection and JUnit 5 for testing.
@@ -43,14 +44,6 @@ Android application in which detailed information about the current location of 
 <h3>SimpsonsApi | Mobile Application</h3>
 Find your favourite quotes from The Simpsons series. Features: search quote, list characters, quote details & actions. Project developed with Coroutines & Flows, Dagger Hilt, Shared Preferences, Retrofit and Room.
 <br>Link: https://github.com/djorges/SimpsonApi
-
-<h3>E-commerce | Web Application</h3>
-Website for the administration of supermarket products. Operations such as listing, updating, deleting and viewing product details. Project developed with Spring Boot using the MVC design pattern. Spring Validation, Apache Tomcat, Sring Data JPA and MySQL were used in the back-end part. In the front-end ReactJS, Axios and Material UI were used. This project repository is public.
-<br>Link: https://github.com/djorges/Ecommerce
-
-<h3>Blog | Web Application</h3>
-Blog web application. RestApi developed in Kotlin with Spring Boot and the MVC design pattern. In the back-end part, Spring Validation, Spring Security + JWT, Apache Tomcat, Spring Data JPA and MySQL were used.
-<br> Link: https://github.com/djorges/Blog
 
 <h3>Newspaper | Mobile Application</h3>
 Mobile application that shows a list of news from Página12. When you select an article, it redirects you to the official website of the newspaper. Application developed with Clean Architecture as architecture pattern and MVVM in the presentation layer. For the back-end, Retrofit 2, Dagger Hilt, Room, Coroutines and LiveData were used.
@@ -61,3 +54,11 @@ In the front-end the Glide, Databinding and Navigation UI libraries were used.
 Features: search word, word definition, list words. Application developed with Clean Architecture as architecture pattern and MVVM in the presentation layer. For the back-end, Dagger Hilt, Retrofit 2, Coroutines, Flow and Room were used.
 In the front-end the Jetpack Compose, Material Design and Navigation UI libraries were used.
 <br>Link: https://github.com/djorges/DictionaryApp
+
+<h3>E-commerce | Web Application</h3>
+Website for the administration of supermarket products. Operations such as listing, updating, deleting and viewing product details. Project developed with Spring Boot using the MVC design pattern. Spring Validation, Apache Tomcat, Sring Data JPA and MySQL were used in the back-end part. In the front-end ReactJS, Axios and Material UI were used. This project repository is public.
+<br>Link: https://github.com/djorges/Ecommerce
+
+<h3>Blog | Web Application</h3>
+Blog web application. RestApi developed in Kotlin with Spring Boot and the MVC design pattern. In the back-end part, Spring Validation, Spring Security + JWT, Apache Tomcat, Spring Data JPA and MySQL were used.
+<br> Link: https://github.com/djorges/Blog
