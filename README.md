@@ -55,8 +55,11 @@ Features: search word, word definition, list words. Application developed with C
 In the front-end the Jetpack Compose, Material Design and Navigation UI libraries were used.
 <br>Link: https://github.com/djorges/DictionaryApp
 
+<h3>PaymentChain | Web Application</h3>
+<br>Link: https://github.com/djorges/PaymentChain
+
 <h3>E-commerce | Web Application</h3>
-Website for the administration of supermarket products. Operations such as listing, updating, deleting and viewing product details. Project developed with Spring Boot using the MVC design pattern. Spring Validation, Apache Tomcat, Sring Data JPA and MySQL were used in the back-end part. In the front-end ReactJS, Axios and Material UI were used. This project repository is public.
+Website for the administration of supermarket products. Operations such as listing, updating, deleting and viewing product details. Project developed with Spring Boot using the MVC design pattern. Spring Validation, Apache Tomcat, Sring Data JPA and MySQL were used in the back-end part. In the front-end ReactJS, Axios and Material UI were used.
 <br>Link: https://github.com/djorges/Ecommerce
 
 <h3>Blog | Web Application</h3>
