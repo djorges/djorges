@@ -55,6 +55,8 @@ Features: search word, word definition, list words. Application developed with C
 In the front-end the Jetpack Compose, Material Design and Navigation UI libraries were used.
 <br>Link: https://github.com/djorges/DictionaryApp
 
+<h3>Notes | Mobile Application</h3>
+
 <h3>PaymentChain | Web Application</h3>
 <br>Link: https://github.com/djorges/PaymentChain
 
