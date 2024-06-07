@@ -42,7 +42,7 @@ Android application in which detailed information about the current location of 
 <br>Link: https://play.google.com/store/apps/details?id=com.levelabdev.location
 
 <h3>ShoppingApp | Cross-Platform Application</h3>
-Kotlin Multiplatform application for Android, IOS and Desktop. Allows you to search and display a list of products fetched from [FakeStore Api](https://fakestoreapi.com/docs) . For the backend, the following libraries are used: Ktor, Koin, Coroutines and Flows. For the design of the application the following are used: Jetpack Compose, Coil, Kotlin 2.0, Material Design 3 and Decompose.
+Kotlin Multiplatform application for Android, IOS and Desktop. Allows you to search and display a list of products fetched from FakeStore Api. For the backend, the following libraries are used: Ktor, Koin, Coroutines and Flows. For the design of the application the following are used: Jetpack Compose, Coil, Kotlin 2.0, Material Design 3 and Decompose.
 <br>Link: https://github.com/djorges/ShoppingApp
 
 <h3>SimpsonsApi | Mobile Application</h3>
