@@ -41,6 +41,10 @@ Personal Website. Project developed with Spring Boot v3.0.5 using the MVC design
 Android application in which detailed information about the current location of the device is displayed. Clean Architecture was used as the architecture pattern and MVVM in the presentation layer. In the back-end part, Google Maps Api, Geocoder Api, Coroutines, LiveData, Room and SQLite were used. Also it were used  DataBinding for data binding with views and NavigationUI in the navigation between fragments. Dagger Hilt for dependency injection and JUnit 5 for testing.
 <br>Link: https://play.google.com/store/apps/details?id=com.levelabdev.location
 
+<h3>ShoppingApp | Cross-Platform Application</h3>
+Kotlin Multiplatform application for Android, IOS and Desktop. Allows you to search and display a list of products fetched from [FakeStore Api](https://fakestoreapi.com/docs) . For the backend, the following libraries are used: Ktor, Koin, Coroutines and Flows. For the design of the application the following are used: Jetpack Compose, Coil, Kotlin 2.0, Material Design 3 and Decompose.
+<br>Link: https://github.com/djorges/ShoppingApp
+
 <h3>SimpsonsApi | Mobile Application</h3>
 Find your favourite quotes from The Simpsons series. Features: search quote, list characters, quote details & actions. Project developed with Coroutines & Flows, Dagger Hilt, Shared Preferences, Retrofit and Room.
 <br>Link: https://github.com/djorges/SimpsonApi
