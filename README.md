@@ -42,9 +42,13 @@ Android application in which detailed information about the current location of 
 <br>Link: https://play.google.com/store/apps/details?id=com.levelabdev.location
 
 <h3>ShoppingApp | Cross-Platform Application</h3>
-Kotlin Multiplatform application for Android, IOS and Desktop. Allows you to search and display a list of products fetched from FakeStore Api. For the backend, the following libraries are used: Ktor, Koin, Coroutines and Flows. For the design of the application the following are used: Jetpack Compose, Coil, Kotlin 2.0, Material Design 3 and Decompose.
+Kotlin Multiplatform application for Android, IOS and Desktop. It allows you to search, view details and display a list of products fetched from FakeStore Api. In addition, data is persisted locally into a SQLite database. For the backend, the following libraries are used: Ktor, Koin, SQLDelight, Coroutines and Flows. For the design of the application the following are used: Jetpack Compose, Coil, Material Design 3 and Decompose.
 <br>Link: https://github.com/djorges/ShoppingApp
 
+<h3>SchoolWeb | Web Application</h3>
+Features: CRUD operations for student and course tables. Project developed in Java 17 with Spring Boot v3.3.0 and the MVC design pattern. In the back-end part, Lombok, GraphQL, Spring Web, Apache Tomcat, Spring Data JPA and Microsoft SQL Server were used.
+<br>Link: https://github.com/djorges/SchoolWeb
+  
 <h3>SimpsonsApi | Mobile Application</h3>
 Find your favourite quotes from The Simpsons series. Features: search quote, list characters, quote details & actions. Project developed with Coroutines & Flows, Dagger Hilt, Shared Preferences, Retrofit and Room.
 <br>Link: https://github.com/djorges/SimpsonApi
