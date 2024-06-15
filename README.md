@@ -32,11 +32,6 @@
 </div>
 
 <h2>Projects</h2>
-<h3>Website | Web Application</h3>
-Personal Website. Project developed with Spring Boot v3.0.5 using the MVC design pattern. For the back-end were used Google Recaptcha, Spring Validation, RestTemplate, Hibernate and MySQL. In the front-end Thymeleaf, Google Maps Javascript Api, JQuery and Bootstrap were used.
-<br>Repository: https://github.com/djorges/Website
-<br>Website: https://jorgesdiego-24479a697423.herokuapp.com
-
 <h3>MyLocation | Mobile Application</h3>
 Android application in which detailed information about the current location of the device is displayed. Clean Architecture was used as the architecture pattern and MVVM in the presentation layer. In the back-end part, Google Maps Api, Geocoder Api, Coroutines, LiveData, Room and SQLite were used. Also it were used  DataBinding for data binding with views and NavigationUI in the navigation between fragments. Dagger Hilt for dependency injection and JUnit 5 for testing.
 <br>Link: https://play.google.com/store/apps/details?id=com.levelabdev.location
@@ -44,6 +39,11 @@ Android application in which detailed information about the current location of 
 <h3>ShoppingApp | Cross-Platform Application</h3>
 Kotlin Multiplatform application for Android, IOS and Desktop. It allows you to search, view details and display a list of products fetched from FakeStore Api. In addition, data is persisted locally into a SQLite database. For the backend, the following libraries are used: Ktor, Koin, SQLDelight, Coroutines and Flows. For the design of the application the following are used: Jetpack Compose, Coil, Material Design 3 and Decompose.
 <br>Link: https://github.com/djorges/ShoppingApp
+
+<h3>Website | Web Application</h3>
+Personal Website. Project developed with Spring Boot v3.0.5 using the MVC design pattern. For the back-end were used Google Recaptcha, Spring Validation, RestTemplate, Hibernate and MySQL. In the front-end Thymeleaf, Google Maps Javascript Api, JQuery and Bootstrap were used.
+<br>Repository: https://github.com/djorges/Website
+<br>Website: https://jorgesdiego-24479a697423.herokuapp.com
 
 <h3>SchoolWeb | Web Application</h3>
 Features: CRUD operations for student and course tables. Project developed in Java 17 with Spring Boot v3.3.0 and the MVC design pattern. In the back-end part, Lombok, GraphQL, Spring Web, Apache Tomcat, Spring Data JPA and Microsoft SQL Server were used.
@@ -67,9 +67,6 @@ In the front-end the Jetpack Compose, Material Design and Navigation libraries w
 Features: list, create, delete, update, search and order notes. Actions: copy on clipboard, pin and share. For the back-end, Dagger Hilt, DataStore Preferences, Coroutines, Flows and Room were used.
 In the front-end the Jetpack Compose, Material Design 3, Coil and Navigation libraries were used.
 <br>Link: https://github.com/djorges/NotesApp
-
-<h3>PaymentChain | Web Application</h3>
-<br>Link: https://github.com/djorges/PaymentChain
 
 <h3>E-commerce | Web Application</h3>
 Website for the administration of supermarket products. Operations such as listing, updating, deleting and viewing product details. Project developed with Spring Boot using the MVC design pattern. Spring Validation, Apache Tomcat, Sring Data JPA and MySQL were used in the back-end part. In the front-end ReactJS, Axios and Material UI were used.
