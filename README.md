@@ -73,5 +73,8 @@ Website for the administration of supermarket products. Operations such as listi
 <br>Link: https://github.com/djorges/Ecommerce
 
 <h3>Blog | Web Application</h3>
-Blog web application. RestApi developed in Kotlin with Spring Boot and the MVC design pattern. In the back-end part, Spring Validation, Spring Security + JWT, Apache Tomcat, Spring Data JPA and MySQL were used.
+RestApi developed in Kotlin with Spring Boot and the MVC design pattern. In the back-end part, Spring Validation, Spring Security + JWT, Apache Tomcat, Spring Data JPA and MySQL were used.
 <br> Link: https://github.com/djorges/Blog
+
+<h3>BankApp | Mobile Application</h3>
+Application developed with Clean Architecture as architecture pattern and MVVM in the presentation layer.The libraries used for this project were Flows, Coroutines, Retrofit, Koin dependency injection, Jetpack Compose, Material Design and Coil.
