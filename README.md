@@ -32,6 +32,11 @@
 </div>
 
 <h2>Projects</h2>
+<h3>MindMates | Website</h3>
+MindMates is a digital platform designed to provide emotional and psychological support to individuals who feel isolated or overwhelmed by difficult situations in their lives. The app allows users to connect with others who share similar experiences, engage in real-time conversations, manage their activities, and access valuable resources, all in a safe and friendly environment.
+Technologies: Spring Boot v3.3.3, Java 17, Spring Security + JWT, Spring Websocket, Hibernate, MySQL, Axios, React Router Dom, Tailwind, Material UI, SockJS Client, Yup.
+<br>Repository: https://github.com/No-Country-simulation/c20-46-n-java-react
+
 <h3>MyLocation | Mobile Application</h3>
 Android application in which detailed information about the current location of the device is displayed. Clean Architecture was used as the architecture pattern and MVVM in the presentation layer. In the back-end part, Google Maps Api, Geocoder Api, Coroutines, LiveData, Room and SQLite were used. Also it were used  DataBinding for data binding with views and NavigationUI in the navigation between fragments. Dagger Hilt for dependency injection and JUnit 5 for testing.
 <br>Link: https://play.google.com/store/apps/details?id=com.levelabdev.location
@@ -43,7 +48,6 @@ Kotlin Multiplatform application for Android, IOS and Desktop. It allows you to 
 <h3>Website | Web Application</h3>
 Personal Website. Project developed with Spring Boot v3.0.5 using the MVC design pattern. For the back-end were used Google Recaptcha, Spring Validation, RestTemplate, Hibernate and MySQL. In the front-end Thymeleaf, Google Maps Javascript Api, JQuery and Bootstrap were used.
 <br>Repository: https://github.com/djorges/Website
-<br>Website: https://jorgesdiego-24479a697423.herokuapp.com
 
 <h3>SchoolWeb | Web Application</h3>
 Features: CRUD operations for student and course tables. Project developed in Java 17 with Spring Boot v3.3.0 and the MVC design pattern. In the back-end part, Lombok, GraphQL, Spring Web, Apache Tomcat, Spring Data JPA and Microsoft SQL Server were used.
