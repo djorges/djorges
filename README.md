@@ -37,10 +37,6 @@ MindMates is a digital platform designed to provide emotional and psychological 
 Technologies: Spring Boot v3.3.3, Java 17, Spring Security + JWT, Spring Websocket, Hibernate, MySQL, Axios, React Router Dom, Tailwind, Material UI, SockJS Client, Yup.
 <br>Repository: https://github.com/No-Country-simulation/c20-46-n-java-react
 
-<h3>MyLocation | Mobile Application</h3>
-Android application in which detailed information about the current location of the device is displayed. Clean Architecture was used as the architecture pattern and MVVM in the presentation layer. In the back-end part, Google Maps Api, Geocoder Api, Coroutines, LiveData, Room and SQLite were used. Also it were used  DataBinding for data binding with views and NavigationUI in the navigation between fragments. Dagger Hilt for dependency injection and JUnit 5 for testing.
-<br>Link: https://play.google.com/store/apps/details?id=com.levelabdev.location
-
 <h3>ShoppingApp | Cross-Platform Application</h3>
 Kotlin Multiplatform application for Android, IOS and Desktop. It allows you to search, view details and display a list of products fetched from FakeStore Api. In addition, data is persisted locally into a SQLite database. For the backend, the following libraries are used: Ktor, Koin, SQLDelight, Coroutines and Flows. For the design of the application the following are used: Jetpack Compose, Coil, Material Design 3 and Decompose.
 <br>Link: https://github.com/djorges/ShoppingApp
