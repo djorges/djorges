@@ -36,9 +36,9 @@
 Desarrollo de una plataforma web similar a Booking para el alquiler de departamentos y casas. Los usuarios podrán filtrar las propiedades según sus preferencias, como tipo de arriendo (casa o departamento) y ubicación.
 La plataforma permitirá a los usuarios buscar y reservar alojamientos de manera eficiente y amigable, utilizando filtros avanzados y mapas interactivos para encontrar la propiedad ideal.
 Este proyecto busca capitalizar el creciente mercado de alquileres temporales, ofreciendo una solución tecnológica que simplifique el proceso tanto para los arrendatarios como para los propietarios.<br>
-PM: Asana. UX/UI: Figma <br>
-Backend: Spring Boot v3.3.3, Java 17, Spring JPA, Spring Validation, MapStruct, JavaMailSender, Spring Security + JWT, Amazon Web Services, Lombok, MySQL.
-FrontEnd: Axios, React, React Router Dom, Javascript, Typescript, Material UI, Tailwind, Yup.
+Tools: Asana, Render, Vercel, Cloudinary, Figma. <br>
+Backend: Spring Boot v3.3.3, Java 17, Spring JPA, Spring Validation, MapStruct, JavaMailSender, Spring Security + JWT, Amazon Web Services, Lombok, MySQL, Mockito, JUnit 5.
+Frontend: Axios, Vite, React, React Router Dom, Javascript, Typescript, Material UI, Tailwind, React Hook Form.
 <br>Repository: https://github.com/No-Country-simulation/S18-23-n-java-react
 
 <h3>MindMates | Website</h3>
