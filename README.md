@@ -46,6 +46,12 @@ MindMates is a digital platform designed to provide emotional and psychological 
 Technologies: Spring Boot v3.3.3, Java 17, Spring Security + JWT, Spring Websocket, Hibernate, MySQL, Axios, React Router Dom, Tailwind, Material UI, SockJS Client, Yup.
 <br>Repository: https://github.com/No-Country-simulation/c20-46-n-java-react
 
+<h3>Student Portal | Web Application</h3>
+Features:
+    -Student: Login, Restore Password, Register, Edit Profile.
+List Courses, List Exams, 
+<br> Link: https://github.com/djorges/StudentPortal
+
 <h3>ShoppingApp | Cross-Platform Application</h3>
 Kotlin Multiplatform application for Android, IOS and Desktop. It allows you to search, view details and display a list of products fetched from FakeStore Api. In addition, data is persisted locally into a SQLite database. For the backend, the following libraries are used: Ktor, Koin, SQLDelight, Coroutines and Flows. For the design of the application the following are used: Jetpack Compose, Coil, Material Design 3 and Decompose.
 <br>Link: https://github.com/djorges/ShoppingApp
