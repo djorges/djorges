@@ -48,8 +48,10 @@ Technologies: Spring Boot v3.3.3, Java 17, Spring Security + JWT, Spring Websock
 
 <h3>Student Portal | Web Application</h3>
 Features:
-    -Student: Login, Restore Password, Register, Edit Profile.
-List Courses, List Exams, 
+    -Student: Login, Confirm Account, Restore Password, Register, Logout, Edit Profile Data (Phone, Image, Address, Username).
+    -Courses: List, Filters, Search, Subscribe, Unsubscribe.
+    -Exams: List, Search, Subscribe, Unsubscribe.
+Technologies: ASP.NET CORE MVC, C#, MySQL, Session State, Entity Framework, MailKit, Bootstrap, Swagger, Model Binding, Secrets Manager.
 <br> Link: https://github.com/djorges/StudentPortal
 
 <h3>ShoppingApp | Cross-Platform Application</h3>
