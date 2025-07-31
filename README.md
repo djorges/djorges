@@ -49,47 +49,49 @@ Este proyecto busca capitalizar el creciente mercado de alquileres temporales, o
 🛠️ Tools: Asana, Render, Vercel, Cloudinary, Figma. <br>
 🧑‍💻 Backend: Spring Boot v3.3.3, Java 17, Spring JPA, Spring Validation, MapStruct, JavaMailSender, Spring Security + JWT, Amazon Web Services, Lombok, MySQL, Mockito, JUnit 5. <br>
 🎨 Frontend: Axios, Vite, React, React Router Dom, Javascript, Typescript, Material UI, Tailwind, React Hook Form. <br>
-<br>➡️ Link: https://github.com/No-Country-simulation/S18-23-n-java-react
+➡️ Link: https://github.com/No-Country-simulation/S18-23-n-java-react
 
 <h3>MindMates | Web Application</h3>
-MindMates is a digital platform designed to provide emotional and psychological support to individuals who feel isolated or overwhelmed by difficult situations in their lives. The app allows users to connect with others who share similar experiences, engage in real-time conversations, manage their activities, and access valuable resources, all in a safe and friendly environment.
-Technologies: Spring Boot v3.3.3, Java 17, Spring Security + JWT, Spring Websocket, Hibernate, MySQL, Axios, React Router Dom, Tailwind, Material UI, SockJS Client, Yup.
-<br>Repository: https://github.com/No-Country-simulation/c20-46-n-java-react
+MindMates is a digital platform designed to provide emotional and psychological support to individuals who feel isolated or overwhelmed by difficult situations in their lives. The app allows users to connect with others who share similar experiences, engage in real-time conversations, manage their activities, and access valuable resources, all in a safe and friendly environment. <br>
+🛠️ Backend: Spring Boot v3.3.3, Java 17, Spring Security + JWT, Spring Websocket, Hibernate, MySQL. <br>
+🎨 Frontend: Axios, React Router Dom, Tailwind, Material UI, SockJS Client, Yup. <br>
+➡️ Link: https://github.com/No-Country-simulation/c20-46-n-java-react
 
 <h3>Student Portal | Web Application</h3>
 Features:
     -Student: Login, Confirm Account, Restore Password, Register, Logout, Edit Profile Data (Phone, Image, Address, Username).
     -Courses: List, Filters, Search, Subscribe, Unsubscribe.
     -Exams: List, Search, Subscribe, Unsubscribe.
-Technologies: ASP.NET CORE MVC, C#, MySQL, Session State, Entity Framework, MailKit, Bootstrap, Swagger, Model Binding, Secrets Manager.
-<br> Link: https://github.com/djorges/StudentPortal
+🛠️ Tools: ASP.NET CORE MVC, C#, MySQL, Session State, Entity Framework, MailKit, Bootstrap, Swagger, Model Binding, Secrets Manager. <br>
+➡️ Link: https://github.com/djorges/StudentPortal
 
 <h3>ShoppingApp | Cross-Platform Application</h3>
-Kotlin Multiplatform application for Android, IOS and Desktop. It allows you to search, view details and display a list of products fetched from FakeStore Api. In addition, data is persisted locally into a SQLite database. For the backend, the following libraries are used: Ktor, Koin, SQLDelight, Coroutines and Flows. For the design of the application the following are used: Jetpack Compose, Coil, Material Design 3 and Decompose.
-<br>Link: https://github.com/djorges/ShoppingApp
+Kotlin Multiplatform application for Android, IOS and Desktop. It allows you to search, view details and display a list of products fetched from FakeStore Api. In addition, data is persisted locally into a SQLite database. For the backend, the following libraries are used: Ktor, Koin, SQLDelight, Coroutines and Flows. For the design of the application the following are used: Jetpack Compose, Coil, Material Design 3 and Decompose.<br>
+➡️ Link: https://github.com/djorges/ShoppingApp
 
 <h3>Website | Web Application</h3>
-Personal Website. Project developed with Spring Boot v3.0.5 using the MVC design pattern. For the back-end were used Google Recaptcha, Spring Validation, RestTemplate, Hibernate and MySQL. In the front-end Thymeleaf, Google Maps Javascript Api, JQuery and Bootstrap were used.
-<br>Repository: https://github.com/djorges/Website
+Personal Website. Project developed with Spring Boot v3.0.5 using the MVC design pattern. For the back-end were used Google Recaptcha, Spring Validation, RestTemplate, Hibernate and MySQL. In the front-end Thymeleaf, Google Maps Javascript Api, JQuery and Bootstrap were used. <br>
+➡️ Link: https://github.com/djorges/Website
 
 <h3>SchoolWeb | Web Application</h3>
-Features: CRUD operations for student and course tables. Project developed in Java 17 with Spring Boot v3.3.0 and the MVC design pattern. In the back-end part, Lombok, GraphQL, Spring Web, Apache Tomcat, Spring Data JPA and Microsoft SQL Server were used.
-<br>Link: https://github.com/djorges/SchoolWeb
+Features: CRUD operations for student and course tables. Project developed in Java 17 with Spring Boot v3.3.0 and the MVC design pattern. In the back-end part, Lombok, GraphQL, Spring Web, Apache Tomcat, Spring Data JPA and Microsoft SQL Server were used. <br>
+➡️ Link: https://github.com/djorges/SchoolWeb
   
 <h3>SimpsonsApi | Mobile Application</h3>
-Find your favourite quotes from The Simpsons series. Features: search quote, list characters, quote details & actions. Project developed with Coroutines & Flows, Dagger Hilt, Shared Preferences, Retrofit and Room.
-<br>Link: https://github.com/djorges/SimpsonApi
+Find your favourite quotes from The Simpsons series. Features: search quote, list characters, quote details & actions. Project developed with Coroutines & Flows, Dagger Hilt, Shared Preferences, Retrofit and Room.  <br>
+➡️ Link: https://github.com/djorges/SimpsonApi
 
 <h3>Newspaper | Mobile Application</h3>
 Mobile application that shows a list of news from Página12. When you select an article, it redirects you to the official website of the newspaper. Application developed with Clean Architecture as architecture pattern and MVVM in the presentation layer. For the back-end, Retrofit 2, Dagger Hilt, Room, Coroutines and LiveData were used.
-In the front-end the Glide, Databinding and Navigation libraries were used.
-<br>Link: https://github.com/djorges/Retrofit
+In the front-end the Glide, Databinding and Navigation libraries were used.  <br>
+➡️ Link: https://github.com/djorges/Retrofit
 
 <h3>Dictionary | Mobile Application</h3>
 Features: search word, word definition, list words. Application developed with Clean Architecture as architecture pattern and MVVM in the presentation layer. For the back-end, Dagger Hilt, Retrofit 2, Coroutines, Flows and Room were used.
-In the front-end the Jetpack Compose, Material Design and Navigation libraries were used.
-<br>Link: https://github.com/djorges/DictionaryApp
+In the front-end the Jetpack Compose, Material Design and Navigation libraries were used. <br>
+➡️ Link: https://github.com/djorges/DictionaryApp
 
+<!-- 
 <h3>Notes | Mobile Application</h3>
 Features: list, create, delete, update, search and order notes. Actions: copy on clipboard, pin and share. For the back-end, Dagger Hilt, DataStore Preferences, Coroutines, Flows and Room were used.
 In the front-end the Jetpack Compose, Material Design 3, Coil and Navigation libraries were used.
@@ -105,6 +107,7 @@ RestApi developed in Kotlin with Spring Boot and the MVC design pattern. In the 
 
 <h3>BankApp | Mobile Application</h3>
 Application developed with Clean Architecture as architecture pattern and MVVM in the presentation layer.The libraries used for this project were Flows, Coroutines, Retrofit, Koin dependency injection, Jetpack Compose, Material Design and Coil.
+-->
 
 <br>
 
