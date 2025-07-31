@@ -1,3 +1,15 @@
+<h2>Perfil</h2>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=djorges&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=djorges&theme=default&utcOffset=8)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=djorges&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=djorges&theme=default)
+
+
+
 <h2>Languages, Libraries and Tools</h2>
 
 <div align="center">
