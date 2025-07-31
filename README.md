@@ -1,14 +1,10 @@
 <h2>Perfil</h2>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=djorges&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=djorges&theme=default&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djorges&theme=default)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=djorges&theme=default)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=djorges&theme=default)
-
-
 
 <h2>Languages, Libraries and Tools</h2>
 
@@ -107,3 +103,7 @@ RestApi developed in Kotlin with Spring Boot and the MVC design pattern. In the 
 
 <h3>BankApp | Mobile Application</h3>
 Application developed with Clean Architecture as architecture pattern and MVVM in the presentation layer.The libraries used for this project were Flows, Coroutines, Retrofit, Koin dependency injection, Jetpack Compose, Material Design and Coil.
+<br>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=djorges&theme=default)
+
