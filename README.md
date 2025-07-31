@@ -1,6 +1,8 @@
 <h2>Perfil</h2>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djorges&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=djorges&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=djorges&theme=default&utcOffset=8)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=djorges&theme=default)
 
@@ -108,6 +110,4 @@ Application developed with Clean Architecture as architecture pattern and MVVM i
 
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=djorges&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=djorges&theme=default&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djorges&theme=default)
