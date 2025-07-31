@@ -43,15 +43,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </div>
 
-<h2>Projects</h2>
+<h2>💻 Projects</h2>
 <h3>Rentify | Web Application</h3>
-Desarrollo de una plataforma web similar a Booking para el alquiler de departamentos y casas. Los usuarios podrán filtrar las propiedades según sus preferencias, como tipo de arriendo (casa o departamento) y ubicación.
-La plataforma permitirá a los usuarios buscar y reservar alojamientos de manera eficiente y amigable, utilizando filtros avanzados y mapas interactivos para encontrar la propiedad ideal.
-Este proyecto busca capitalizar el creciente mercado de alquileres temporales, ofreciendo una solución tecnológica que simplifique el proceso tanto para los arrendatarios como para los propietarios.<br>
-Tools: Asana, Render, Vercel, Cloudinary, Figma. <br>
-Backend: Spring Boot v3.3.3, Java 17, Spring JPA, Spring Validation, MapStruct, JavaMailSender, Spring Security + JWT, Amazon Web Services, Lombok, MySQL, Mockito, JUnit 5. <br>
-Frontend: Axios, Vite, React, React Router Dom, Javascript, Typescript, Material UI, Tailwind, React Hook Form. <br>
-<br>Repository: https://github.com/No-Country-simulation/S18-23-n-java-react
+Desarrollo de una plataforma web similar a Booking para el alquiler de departamentos y casas 🏠. Los usuarios podrán filtrar las propiedades según sus preferencias, como tipo de arriendo (casa o departamento) y ubicación.
+La plataforma permitirá a los usuarios buscar y reservar alojamientos de manera eficiente y amigable, utilizando filtros avanzados y mapas interactivos para encontrar la propiedad ideal 🔍.
+Este proyecto busca capitalizar el creciente mercado de alquileres temporales, ofreciendo una solución tecnológica que simplifique el proceso tanto para los arrendatarios como para los propietarios 📈.<br>
+🛠️ Tools: Asana, Render, Vercel, Cloudinary, Figma. <br>
+🧑‍💻 Backend: Spring Boot v3.3.3, Java 17, Spring JPA, Spring Validation, MapStruct, JavaMailSender, Spring Security + JWT, Amazon Web Services, Lombok, MySQL, Mockito, JUnit 5. <br>
+🎨 Frontend: Axios, Vite, React, React Router Dom, Javascript, Typescript, Material UI, Tailwind, React Hook Form. <br>
+<br>➡️ Link: https://github.com/No-Country-simulation/S18-23-n-java-react
 
 <h3>MindMates | Web Application</h3>
 MindMates is a digital platform designed to provide emotional and psychological support to individuals who feel isolated or overwhelmed by difficult situations in their lives. The app allows users to connect with others who share similar experiences, engage in real-time conversations, manage their activities, and access valuable resources, all in a safe and friendly environment.
