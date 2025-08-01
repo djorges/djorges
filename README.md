@@ -8,7 +8,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=djorges&theme=default)
 
-<h2>Languages, Libraries and Tools</h2>
+<h2>📚 Languages, Libraries and Tools</h2>
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
@@ -52,25 +52,25 @@ Este proyecto busca capitalizar el creciente mercado de alquileres temporales, o
 ➡️ Link: https://github.com/No-Country-simulation/S18-23-n-java-react
 
 <h3>MindMates | Web Application</h3>
-MindMates is a digital platform designed to provide emotional and psychological support to individuals who feel isolated or overwhelmed by difficult situations in their lives. The app allows users to connect with others who share similar experiences, engage in real-time conversations, manage their activities, and access valuable resources, all in a safe and friendly environment. <br>
+MindMates is a digital platform designed to provide emotional and psychological support to individuals who feel isolated or overwhelmed by difficult situations in their lives 🫂. The app allows users to connect with others who share similar experiences, engage in real-time conversations, manage their activities, and access valuable resources, all in a safe and friendly environment 🌿. <br>
 🛠️ Backend: Spring Boot v3.3.3, Java 17, Spring Security + JWT, Spring Websocket, Hibernate, MySQL. <br>
 🎨 Frontend: Axios, React Router Dom, Tailwind, Material UI, SockJS Client, Yup. <br>
 ➡️ Link: https://github.com/No-Country-simulation/c20-46-n-java-react
 
 <h3>Student Portal | Web Application</h3>
 Features:
-    -Student: Login, Confirm Account, Restore Password, Register, Logout, Edit Profile Data (Phone, Image, Address, Username).
-    -Courses: List, Filters, Search, Subscribe, Unsubscribe.
-    -Exams: List, Search, Subscribe, Unsubscribe.
+    👤 Student: Login, Confirm Account, Restore Password, Register, Logout, Edit Profile Data (Phone, Image, Address, Username).
+    👨‍🏫 Courses: List, Filters, Search, Subscribe, Unsubscribe.
+    📄 Exams: List, Search, Subscribe, Unsubscribe.
 🛠️ Tools: ASP.NET CORE MVC, C#, MySQL, Session State, Entity Framework, MailKit, Bootstrap, Swagger, Model Binding, Secrets Manager. <br>
 ➡️ Link: https://github.com/djorges/StudentPortal
 
 <h3>ShoppingApp | Cross-Platform Application</h3>
-Kotlin Multiplatform application for Android, IOS and Desktop. It allows you to search, view details and display a list of products fetched from FakeStore Api. In addition, data is persisted locally into a SQLite database. For the backend, the following libraries are used: Ktor, Koin, SQLDelight, Coroutines and Flows. For the design of the application the following are used: Jetpack Compose, Coil, Material Design 3 and Decompose.<br>
+Kotlin Multiplatform application for Android, IOS and Desktop 🖥️📱. It allows you to search, view details and display a list of products fetched from FakeStore Api 🛒. In addition, data is persisted locally into a SQLite database. For the backend, the following libraries are used: Ktor, Koin, SQLDelight, Coroutines and Flows. For the design of the application the following are used: Jetpack Compose, Coil, Material Design 3 and Decompose.<br>
 ➡️ Link: https://github.com/djorges/ShoppingApp
 
 <h3>Website | Web Application</h3>
-Personal Website. Project developed with Spring Boot v3.0.5 using the MVC design pattern. For the back-end were used Google Recaptcha, Spring Validation, RestTemplate, Hibernate and MySQL. In the front-end Thymeleaf, Google Maps Javascript Api, JQuery and Bootstrap were used. <br>
+Personal Website 🚀. Project developed with Spring Boot v3.0.5 using the MVC design pattern. For the back-end were used Google Recaptcha, Spring Validation, RestTemplate, Hibernate and MySQL. In the front-end Thymeleaf, Google Maps Javascript Api, JQuery and Bootstrap were used. <br>
 ➡️ Link: https://github.com/djorges/Website
 
 <h3>SchoolWeb | Web Application</h3>
@@ -78,11 +78,11 @@ Features: CRUD operations for student and course tables. Project developed in Ja
 ➡️ Link: https://github.com/djorges/SchoolWeb
   
 <h3>SimpsonsApi | Mobile Application</h3>
-Find your favourite quotes from The Simpsons series. Features: search quote, list characters, quote details & actions. Project developed with Coroutines & Flows, Dagger Hilt, Shared Preferences, Retrofit and Room.  <br>
+Find your favourite quotes from The Simpsons series 💬. Features: search quote, list characters, quote details & actions. Project developed with Coroutines & Flows, Dagger Hilt, Shared Preferences, Retrofit and Room.  <br>
 ➡️ Link: https://github.com/djorges/SimpsonApi
 
 <h3>Newspaper | Mobile Application</h3>
-Mobile application that shows a list of news from Página12. When you select an article, it redirects you to the official website of the newspaper. Application developed with Clean Architecture as architecture pattern and MVVM in the presentation layer. For the back-end, Retrofit 2, Dagger Hilt, Room, Coroutines and LiveData were used.
+Mobile application that shows a list of news from Página12 📰. When you select an article, it redirects you to the official website of the newspaper 📱. Application developed with Clean Architecture as architecture pattern and MVVM in the presentation layer. For the back-end, Retrofit 2, Dagger Hilt, Room, Coroutines and LiveData were used.
 In the front-end the Glide, Databinding and Navigation libraries were used.  <br>
 ➡️ Link: https://github.com/djorges/Retrofit
 
