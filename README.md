@@ -71,7 +71,9 @@ Kotlin Multiplatform application for Android, IOS and Desktop 🖥️📱. It al
 ➡️ Link: https://github.com/djorges/ShoppingApp
 
 <h3>Website | Web Application</h3>
-Personal Website 🚀. Project developed with Spring Boot v3.0.5 using the MVC design pattern. For the back-end were used Google Recaptcha, Spring Validation, RestTemplate, Hibernate and MySQL. In the front-end Thymeleaf, Google Maps Javascript Api, JQuery and Bootstrap were used. <br>
+This personal website serves as a professional online presence, showcasing key sections such as a landing page ✨, an "About Me" section 👤, education details 📚, and a contact form 📨. The landing page introduces visitors to the site, while the "about me" section provides a brief overview of personal and professional background. The education section outlines academic achievements, and the contact form allows users to get in touch easily and securely. <br>
+🛠️ Project developed with Spring Boot v3.0.5 using the MVC design pattern. For the back-end were used Google Recaptcha, Spring Validation, RestTemplate, Hibernate and MySQL. <br>
+🎨 In the front-end Thymeleaf, Google Maps Javascript Api, JQuery and Bootstrap were used. <br>
 ➡️ Link: https://github.com/djorges/Website
 
 <h3>SchoolWeb | Web Application</h3>
