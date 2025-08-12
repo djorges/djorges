@@ -59,10 +59,8 @@ MindMates is a digital platform designed to provide emotional and psychological 
 ➡️ Link: https://github.com/No-Country-simulation/c20-46-n-java-react
 
 <h3>Student Portal | Web Application</h3>
-Features:
-    👤 Student: Login, Confirm Account, Restore Password, Register, Logout, Edit Profile Data (Phone, Image, Address, Username).
-    👨‍🏫 Courses: List, Filters, Search, Subscribe, Unsubscribe.
-    📄 Exams: List, Search, Subscribe, Unsubscribe.
+This project is a web-based platform designed to support student interaction with academic content 🎒, offering features such as user authentication 🔒, profile management 👤, course enrollment 👨‍🏫, and exam registration 📄. <br>
+Students can easily register, log in, update their personal information(phone, image, home address, username), and manage their course and exam subscriptions through an intuitive interface. The system ensures secure user sessions, efficient data handling, and responsive design 🎨. <br>
 🛠️ Tools: ASP.NET CORE MVC, C#, MySQL, Session State, Entity Framework, MailKit, Bootstrap, Swagger, Model Binding, Secrets Manager. <br>
 ➡️ Link: https://github.com/djorges/StudentPortal
 
