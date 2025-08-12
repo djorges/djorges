@@ -43,9 +43,10 @@
 
 <h2>💻 Projects</h2>
 <h3>Rentify | Web Application</h3>
-Desarrollo de una plataforma web similar a Booking para el alquiler de departamentos y casas 🏠. Los usuarios podrán filtrar las propiedades según sus preferencias, como tipo de arriendo (casa o departamento) y ubicación.
-La plataforma permitirá a los usuarios buscar y reservar alojamientos de manera eficiente y amigable, utilizando filtros avanzados y mapas interactivos para encontrar la propiedad ideal 🔍.
-Este proyecto busca capitalizar el creciente mercado de alquileres temporales, ofreciendo una solución tecnológica que simplifique el proceso tanto para los arrendatarios como para los propietarios 📈.<br>
+Development of a web platform similar to Booking for renting apartments and houses 🏠.
+Users will be able to filter properties according to their preferences, such as type of rental (house or apartment) and location.
+The platform will allow users to search for and book accommodations efficiently and user-friendly, using advanced filters and interactive maps to find the ideal property 🔍.
+This project aims to capitalize on the growing short-term rental market by offering a technological solution that simplifies the process for both renters and property owners 📈.<br>
 🛠️ Tools: Asana, Render, Vercel, Cloudinary, Figma. <br>
 🧑‍💻 Backend: Spring Boot v3.3.3, Java 17, Spring JPA, Spring Validation, MapStruct, JavaMailSender, Spring Security + JWT, Amazon Web Services, Lombok, MySQL, Mockito, JUnit 5. <br>
 🎨 Frontend: Axios, Vite, React, React Router Dom, Javascript, Typescript, Material UI, Tailwind, React Hook Form. <br>
@@ -66,7 +67,9 @@ Features:
 ➡️ Link: https://github.com/djorges/StudentPortal
 
 <h3>ShoppingApp | Cross-Platform Application</h3>
-Kotlin Multiplatform application for Android, IOS and Desktop 🖥️📱. It allows you to search, view details and display a list of products fetched from FakeStore Api 🛒. In addition, data is persisted locally into a SQLite database. For the backend, the following libraries are used: Ktor, Koin, SQLDelight, Coroutines and Flows. For the design of the application the following are used: Jetpack Compose, Coil, Material Design 3 and Decompose.<br>
+Kotlin Multiplatform application for Android, IOS and Desktop 🖥️📱. It allows you to search, view details and display a list of products fetched from FakeStore Api 🛒. In addition, data is persisted locally into a SQLite database 🗃️.<br>
+🛠️ For the backend, the following libraries are used: Ktor, Koin, SQLDelight, Coroutines and Flows.<br>
+🎨 For the design of the application the following are used: Jetpack Compose, Coil, Material Design 3 and Decompose.<br>
 ➡️ Link: https://github.com/djorges/ShoppingApp
 
 <h3>Website | Web Application</h3>
