@@ -1,4 +1,4 @@
-<h2>Perfil</h2>
+<h2>👤 Perfil</h2>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=djorges&theme=default)
 
@@ -77,21 +77,25 @@ This personal website serves as a professional online presence, showcasing key s
 ➡️ Link: https://github.com/djorges/Website
 
 <h3>SchoolWeb | Web Application</h3>
-Features: CRUD operations for student and course tables. Project developed in Java 17 with Spring Boot v3.3.0 and the MVC design pattern. In the back-end part, Lombok, GraphQL, Spring Web, Apache Tomcat, Spring Data JPA and Microsoft SQL Server were used. <br>
+Features: CRUD operations for student and course tables. Project developed in Java 17 with Spring Boot v3.3.0 and the MVC design pattern. <br>
+🛠️ In the back-end part, Lombok, GraphQL, Spring Web, Apache Tomcat, Spring Data JPA and Microsoft SQL Server were used. <br>
 ➡️ Link: https://github.com/djorges/SchoolWeb
   
 <h3>SimpsonsApi | Mobile Application</h3>
-Find your favourite quotes from The Simpsons series 💬. Features: search quote, list characters, quote details & actions. Project developed with Coroutines & Flows, Dagger Hilt, Shared Preferences, Retrofit and Room.  <br>
+Find your favourite quotes from The Simpsons series 💬. Features: search quote, list characters, quote details & actions. <br>
+🛠️ Project developed with Coroutines & Flows, Dagger Hilt, Shared Preferences, Retrofit and Room.  <br>
 ➡️ Link: https://github.com/djorges/SimpsonApi
 
 <h3>Newspaper | Mobile Application</h3>
-Mobile application that shows a list of news from Página12 📰. When you select an article, it redirects you to the official website of the newspaper 📱. Application developed with Clean Architecture as architecture pattern and MVVM in the presentation layer. For the back-end, Retrofit 2, Dagger Hilt, Room, Coroutines and LiveData were used.
-In the front-end the Glide, Databinding and Navigation libraries were used.  <br>
+Mobile application that shows a list of news from Página12 📰. When you select an article, it redirects you to the official website of the newspaper 📱. Application developed with Clean Architecture as architecture pattern and MVVM in the presentation layer. <br>
+🛠️ For the back-end, Retrofit 2, Dagger Hilt, Room, Coroutines and LiveData were used. <br>
+🎨 In the front-end the Glide, Databinding and Navigation libraries were used.  <br>
 ➡️ Link: https://github.com/djorges/Retrofit
 
 <h3>Dictionary | Mobile Application</h3>
-Features: search word, word definition, list words. Application developed with Clean Architecture as architecture pattern and MVVM in the presentation layer. For the back-end, Dagger Hilt, Retrofit 2, Coroutines, Flows and Room were used.
-In the front-end the Jetpack Compose, Material Design and Navigation libraries were used. <br>
+Features: search word, word definition, list words. Application developed with Clean Architecture as architecture pattern and MVVM in the presentation layer. <br>
+🛠️ For the back-end, Dagger Hilt, Retrofit 2, Coroutines, Flows and Room were used. <br>
+🎨 In the front-end the Jetpack Compose, Material Design and Navigation libraries were used. <br>
 ➡️ Link: https://github.com/djorges/DictionaryApp
 
 <!-- 
