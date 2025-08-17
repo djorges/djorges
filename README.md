@@ -98,15 +98,20 @@ Features: search word, word definition, list words. Application developed with C
 🎨 In the front-end the Jetpack Compose, Material Design and Navigation libraries were used. <br>
 ➡️ Link: https://github.com/djorges/DictionaryApp
 
+<h3>InventoryApp | Mobile Application</h3>
+Application for the administration of supermarket products 🛍️. Operations such as listing, updating, deleting and viewing product details. Also it allows users to authenticate with login and register methods 🔒.<br>
+Application developed with Clean Architecture as architecture pattern and the MVVM pattern in the presentation layer. <br>
+🛠️ For the back-end, Koin, Retrofit 3, Coroutines, Flows, Firebase Authentication, Firestore and Room Database were used. <br>
+🎨 In the front-end the Jetpack Compose, Material Design 3, Coil and Navigation libraries were used. <br>
+➡️ Link: https://github.com/djorges/InventoryApp
+
+
 <!-- 
 <h3>Notes | Mobile Application</h3>
 Features: list, create, delete, update, search and order notes. Actions: copy on clipboard, pin and share. For the back-end, Dagger Hilt, DataStore Preferences, Coroutines, Flows and Room were used.
 In the front-end the Jetpack Compose, Material Design 3, Coil and Navigation libraries were used.
 <br>Link: https://github.com/djorges/NotesApp
 
-<h3>E-commerce | Web Application</h3>
-Website for the administration of supermarket products. Operations such as listing, updating, deleting and viewing product details. Project developed with Spring Boot using the MVC design pattern. Spring Validation, Apache Tomcat, Sring Data JPA and MySQL were used in the back-end part. In the front-end ReactJS, Axios and Material UI were used.
-<br>Link: https://github.com/djorges/Ecommerce
 
 <h3>Blog | Web Application</h3>
 RestApi developed in Kotlin with Spring Boot and the MVC design pattern. In the back-end part, Spring Validation, Spring Security + JWT, Apache Tomcat, Spring Data JPA and MySQL were used.
